@@ -1,0 +1,2 @@
+# Hackclub-CGC
+Hackclub CGC
